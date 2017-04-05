@@ -12,7 +12,7 @@ The need of this decision-maker audience is not deep technical knowledge but a b
 #### Audience
 Funding agencies/program managers, grant reviewers, investigators, and educators who are/will be reviewing research proposals or training curricula that substantially make use of big data and computation in the biological/biomedical sciences.  
 
-**No assumption of familiarity with the technical tools or practices of open science, bioinformatics, computational biology**
+**No assumption of familiarity with the technical tools or practices of open science, bioinformatics, computational biology, etc.**
 
 ##### Format and development
 When first deployed, we will teach this as a one-day workshop to a live audience. As the content progresses and we have feedback from an initial presentation, we can evolve the format to be suited for a self-guided course, a virtual webinar, or in-person workshop. 
@@ -21,7 +21,7 @@ When first deployed, we will teach this as a one-day workshop to a live audience
 
 - Useful background reading materials and references
 - A minimal introductory lecture 
-- Hands-on exercises
+- Problem-based Hands-on exercises
 - Additional learning resources
 
 ### Workshop objectives
