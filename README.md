@@ -21,7 +21,7 @@ When first deployed, we will teach this as a one-day workshop to a live audience
 
 - Useful background reading materials and references
 - A minimal introductory lecture 
-- Problem-based Hands-on exercises
+- Problem-based hands-on exercises
 - Additional learning resources
 
 ### Workshop objectives
