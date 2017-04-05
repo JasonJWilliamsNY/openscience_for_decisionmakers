@@ -9,7 +9,7 @@ We reason that if cutting-edge investigators are only recently navigating throug
 
 The need of this decision-maker audience is not deep technical knowledge but a broad understanding of relevant topics. An increased understanding of the value and reasoning behind practices and technologies can empower this audience to make more helpful suggestions and critical evaluations of proposals for data-intensive research and/or learning and training strategies. 
 
-####Audience
+#### Audience
 Funding agencies/program managers, grant reviewers, investigators, and educators who are/will be reviewing research proposals or training curricula that substantially make use of big data and computation in the biological/biomedical sciences.  
 
 **No assumption of familiarity with the technical tools or practices of open science, bioinformatics, computational biology**
