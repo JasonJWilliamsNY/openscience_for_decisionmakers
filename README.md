@@ -1,6 +1,6 @@
 # Open, Data-driven Science for Decision Makers
 
-### Goal: Enable critical evaluation of research proposals according to the best practices of open science. 
+## Goal: Enable critical evaluation of research proposals according to the best practices of open science. 
 
 ### Rationale
 "Open Science" and "Big Data" are popular buzzwords in biological research. A laundry list of publications [REFFS] indicate that many researchers are working on building the skills needed to be computationally savvy biologists. While significant resources are available to help them come up to speed, we are unaware of efforts that target the audience of decision makers who need to be informed about the progress and value of open science and computation. 
